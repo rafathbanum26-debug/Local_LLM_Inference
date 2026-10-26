@@ -1,0 +1,11 @@
+id,domain,model,word_count,response_time_seconds
+1,Education,gemma3:1b,327,28.38
+2,Education,gemma3:1b,152,12.06
+3,Healthcare,gemma3:1b,471,44.2
+4,Healthcare,gemma3:1b,526,44.47
+5,Coding,gemma3:1b,281,24.66
+6,Coding,gemma3:1b,414,37.69
+7,Travel,gemma3:1b,285,23.94
+8,Business,gemma3:1b,536,43.67
+9,Technology,gemma3:1b,598,49.14
+10,Environment,gemma3:1b,248,14.72
